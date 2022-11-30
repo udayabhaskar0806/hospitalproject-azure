@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://nice-hill-0662b4810.2.azurestaticapps.net/index.html
-**project demo video link** -https://clipchamp.com/watch/5yoO6s9dIaw 
+**project demo video link** -https://drive.google.com/file/d/1iysr8RGcpKRP3adjpRTKDTRHIoAWDmuF/view?usp=sharing
 
 ## Azure technologies used for Project
 

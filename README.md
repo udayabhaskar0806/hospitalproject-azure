@@ -1,6 +1,6 @@
-# ✨  hospitalproject-azure ✨
+# ✨  Online Health Consultation ✨
 
-This is a web based application developed for health related based website in india
+This is a web based application developed for online health consultancy based on azure services.
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -8,40 +8,46 @@ This is a web based application developed for health related based website in in
 **Project Link** -https://nice-hill-0662b4810.2.azurestaticapps.net/index.html
 
 
-**project demo video link** -https://drive.google.com/file/d/1iysr8RGcpKRP3adjpRTKDTRHIoAWDmuF/view?usp=sharing
+**project demo video link** -
 
 ## Azure technologies used for Project
 
 - Static web apps
 - Health bot
 
-## Features and Functionalities 😃
+##What is Azure service
+-Azure is a cloud computing platform and infrastructure created by Microsoft for building, deploying, and managing applications and services through a global network of Microsoft-managed data centers. It offers a wide range of services, including virtual machines, web and mobile app hosting, data storage and management, artificial intelligence, and Internet of Things (IoT) capabilities. The platform is designed to support a variety of programming languages, frameworks, and tools, and is accessible through the Azure portal or APIs.
 
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
+![image](https://user-images.githubusercontent.com/90716940/215775578-28a7aba0-57f5-4012-a1de-664984b92a19.png)
+
+
+## Features and Functionalities of Application😃
+
+- Enables real-time virtual consultations with doctors via video calls.
+- Allows patients to schedule appointments with doctors at their convenience
 - Have an aesthetically pleasing visual design and architecture.
+- Utilizes AI-powered(azure health bots) chatbots to provide quick answers to common questions and triage patients.
+- Interactive and responsive UI.
 - Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
 - User can know about health information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+- Included the feedback Survey form to increase the scope of improvement.
 
 ## Screenshots
-static website image
+##static website image
 
-![Screenshot (16)](https://user-images.githubusercontent.com/90716940/204871179-4bd8ecf0-eb4b-4239-8dc2-9264ed0f366c.png)
-
-
-   
-![Screenshot (18)](https://user-images.githubusercontent.com/90716940/204871947-586291fe-0c92-48c8-a144-2034041bd618.png)
-
-
-
-![Screenshot (21)](https://user-images.githubusercontent.com/90716940/204872017-885bad79-e0e3-478b-8d37-e154690e2078.png)
-
+![Screenshot (63)](https://user-images.githubusercontent.com/90716940/215783976-70211e0b-afe0-4408-8302-663170182a15.png)
+-It is the UI interface of webpage consists of 
+![Screenshot (64)](https://user-images.githubusercontent.com/90716940/215784015-5a7ac93e-389c-459b-959f-d25484625ca3.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/90716940/215784082-17e11086-31ef-46ae-aad4-f2c07b19a48a.png)
 
 ##Chatbot Service Image
 
+ ![Screenshot (67)](https://user-images.githubusercontent.com/90716940/215783922-54ec61ff-2db2-441e-967e-9e3eb736d152.png)
 
-![Screenshot (25)](https://user-images.githubusercontent.com/90716940/204872096-5292e224-9819-448b-86bc-78c7381cc6fd.png)
+ -This chat bot in this webpage is used to assist the uses patients to the appropriate level of care based on their symptoms.
+ -Providing accurate and up-to-date information about health conditions, treatments, and medications.
+ -Scheduling appointments, sending appointment reminders, and updating patients on wait times.
+ -Encouraging patients to take an active role in their health by providing personalized health information and recommendations.
 
 
 

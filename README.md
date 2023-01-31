@@ -41,6 +41,10 @@ This is a web based application developed for online health consultancy based on
 
 ![Screenshot (64)](https://user-images.githubusercontent.com/90716940/215784015-5a7ac93e-389c-459b-959f-d25484625ca3.png)
 
+-This page consists of different types of specilists doctors to assists the patients.
+[https://ibb.co/N1CnjwS](https://i.ibb.co/bHmRBpJ/Screenshot-68.png")
+-This page consists of all the doctors project in the hospital to consult or contact their required doctor easily.
+
 ![Screenshot (66)](https://user-images.githubusercontent.com/90716940/215784082-17e11086-31ef-46ae-aad4-f2c07b19a48a.png)
 
 -It is the page to book an appointment by filling the basic details of the patient.To allocate the slot and time for the patient in there required time period.

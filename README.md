@@ -16,6 +16,7 @@ This is a web based application developed for online health consultancy based on
 - Health bot
 
 ##What is Azure service
+
 -Azure is a cloud computing platform and infrastructure created by Microsoft for building, deploying, and managing applications and services through a global network of Microsoft-managed data centers. It offers a wide range of services, including virtual machines, web and mobile app hosting, data storage and management, artificial intelligence, and Internet of Things (IoT) capabilities. The platform is designed to support a variety of programming languages, frameworks, and tools, and is accessible through the Azure portal or APIs.
 
 ![image](https://user-images.githubusercontent.com/90716940/215775578-28a7aba0-57f5-4012-a1de-664984b92a19.png)
@@ -42,7 +43,9 @@ This is a web based application developed for online health consultancy based on
 ![Screenshot (64)](https://user-images.githubusercontent.com/90716940/215784015-5a7ac93e-389c-459b-959f-d25484625ca3.png)
 
 -This page consists of different types of specilists doctors to assists the patients.
-[https://ibb.co/N1CnjwS](https://i.ibb.co/bHmRBpJ/Screenshot-68.png")
+
+![https://ibb.co/N1CnjwS](https://i.ibb.co/bHmRBpJ/Screenshot-68.png")
+
 -This page consists of all the doctors project in the hospital to consult or contact their required doctor easily.
 
 ![Screenshot (66)](https://user-images.githubusercontent.com/90716940/215784082-17e11086-31ef-46ae-aad4-f2c07b19a48a.png)
@@ -63,7 +66,7 @@ This is a web based application developed for online health consultancy based on
 
 
 
-### Services -This website gives the all the information about the hospital and it have a bot service to provide information  for everyone.
+### Azure Services
 
 ### health bot
 ### static web app

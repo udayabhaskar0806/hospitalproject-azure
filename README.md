@@ -36,9 +36,14 @@ This is a web based application developed for online health consultancy based on
 ##static website image
 
 ![Screenshot (63)](https://user-images.githubusercontent.com/90716940/215783976-70211e0b-afe0-4408-8302-663170182a15.png)
--It is the UI interface of webpage consists of 
+
+-It is the UI interface of webpage consists of different tabs for different content
+
 ![Screenshot (64)](https://user-images.githubusercontent.com/90716940/215784015-5a7ac93e-389c-459b-959f-d25484625ca3.png)
+
 ![Screenshot (66)](https://user-images.githubusercontent.com/90716940/215784082-17e11086-31ef-46ae-aad4-f2c07b19a48a.png)
+
+-It is the page to book an appointment by filling the basic details of the patient.To allocate the slot and time for the patient in there required time period.
 
 ##Chatbot Service Image
 

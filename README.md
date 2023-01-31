@@ -45,8 +45,11 @@ This is a web based application developed for online health consultancy based on
  ![Screenshot (67)](https://user-images.githubusercontent.com/90716940/215783922-54ec61ff-2db2-441e-967e-9e3eb736d152.png)
 
  -This chat bot in this webpage is used to assist the uses patients to the appropriate level of care based on their symptoms.
+ 
  -Providing accurate and up-to-date information about health conditions, treatments, and medications.
+ 
  -Scheduling appointments, sending appointment reminders, and updating patients on wait times.
+ 
  -Encouraging patients to take an active role in their health by providing personalized health information and recommendations.
 
 
